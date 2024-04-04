@@ -1,4 +1,5 @@
 body {
   font-family: 'Roboto', Arial, serif;
-  background-color: #00adb5;
+  background: #2D77E2;
+  background: linear-gradient(135deg, #2D77E2, #D0C5AD);
 }
